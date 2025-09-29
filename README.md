@@ -23,12 +23,13 @@ GeoRemind helps users tie tasks to locations:
 
 ## Screens & Demo  
 <div style="display: flex; justify-content: space-between;">
-  <img src="SeniorHome View.png" width="30%"/>
-  <img src="VolunteerHome View.png" width="30%"/>
+  <img src="LoginView.png" width="30%"/>
+  <img src="HomeView.png" width="30%"/>
+  <img src="TaskView.png" width="30%"/>
 </div>
 
 **Quick walkthrough:**  
-Open the app → Create a profile as a senior or volunteer → Tap **I Need Help** → Submit a request or start a call → Volunteers see and respond.
+Open the app → Login using Google or Email → Add a task using AI (NLP) or manual input → See your tasks pinned on the map → Get notified when you’re near the location.  
 
 ---
 

@@ -125,5 +125,6 @@ All rights reserved.
 [georemindgt@gmail.com]  
 
 **Authors**:  
-[https://linkedin.com/in/aadijuthani]  
-[https://www.linkedin.com/in/roque-arduengo-470848304/]  
+Aadi Juthani - [https://linkedin.com/in/aadijuthani]  
+Roque Arduengo - [https://www.linkedin.com/in/roque-arduengo-470848304/]  
+Mitansh Mishra

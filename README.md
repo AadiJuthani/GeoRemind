@@ -126,5 +126,5 @@ All rights reserved.
 
 **Authors**:  
 Aadi Juthani - [https://linkedin.com/in/aadijuthani]  
-Roque Arduengo - [https://www.linkedin.com/in/roque-arduengo-470848304/]  
+Roque Arduengo - [https://www.linkedin.com/in/roque-arduengo-iv/]  
 Mitansh Mishra

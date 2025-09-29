@@ -88,23 +88,23 @@ GeoRemind helps users tie tasks to locations:
 ---
 
 ## Setup (Run in 2 Minutes)
-1. Clone the repo:
-```bash   git clone https://github.com/yourusername/GeoRemind.git ```
-```cd GeoRemind   ```
-2. Open in VS Code or Android Studio
-3. Run:     ```bash   flutter pub get   ```
-4. Connect a simulator or device and run:     ```bash   flutter run   ```
+1. Clone the repo:  
+```bash   git clone https://github.com/yourusername/GeoRemind.git ```  
+```cd GeoRemind   ```  
+2. Open in VS Code or Android Studio  
+3. Run:     ```bash   flutter pub get   ```  
+4. Connect a simulator or device and run:     ```bash   flutter run   ```  
 
---## Credits & Inspiration
-- HackGT 12 for providing the platform
-- Google Maps & Firebase docs
-- Flutter community packages (`geolocator`, `flutter_local_notifications`)
+--## Credits & Inspiration  
+- HackGT 12 for providing the platform  
+- Google Maps & Firebase docs  
+- Flutter community packages (`geolocator`, `flutter_local_notifications`)  
 
 --## License & Contact
-All rights reserved.
-**Team:** GeoRemind @ HackGT 12
-[georemindgt@gmail.com]
+All rights reserved.  
+**Team:** GeoRemind @ HackGT 12  
+[georemindgt@gmail.com]  
 
 **Authors**:
-[https://linkedin.com/in/aadijuthani]
-[https://https://www.linkedin.com/in/roque-arduengo-470848304/]
+[https://linkedin.com/in/aadijuthani]  
+[https://https://www.linkedin.com/in/roque-arduengo-470848304/]  

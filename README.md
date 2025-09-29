@@ -22,7 +22,13 @@ GeoRemind helps users tie tasks to locations:
 ---
 
 ## Screens & Demo  
-🚧 *(Screenshots coming soon)*  
+<div style="display: flex; justify-content: space-between;">
+  <img src="SeniorHome View.png" width="30%"/>
+  <img src="VolunteerHome View.png" width="30%"/>
+</div>
+
+**Quick walkthrough:**  
+Open the app → Create a profile as a senior or volunteer → Tap **I Need Help** → Submit a request or start a call → Volunteers see and respond.
 
 ---
 
@@ -57,7 +63,7 @@ GeoRemind helps users tie tasks to locations:
 - Shipped a **full-stack, cross-platform mobile app in just 36 hours**  
 - Implemented an efficient continuous location listener with geofence triggers  
 - Built cooldown logic to keep notifications useful instead of overwhelming  
-- Collaborated effectively under time pressure and delivered a polished demo  
+- Collaborated effectively under 36-hour time pressure and delivered a polished demo  
 
 ---
 
@@ -70,11 +76,11 @@ GeoRemind helps users tie tasks to locations:
 ---
 
 ## What’s Next for GeoRemind  
+- ✨ **AI-powered Lifestyle Analysis** for optimized notifications to avoid clutter
 - ✅ **Full Gmail integration** with OAuth 2.0 for live package detection  
 - 📅 **Calendar sync** to auto-create reminders for events with locations  
 - ⏰ **Time-based conditions** (e.g., *“After 5 PM when near the library”*)  
 - 😴 **Snooze + AI-powered smart suggestions** for common reminders  
-- 🔋 **True background execution** to maintain geofencing even when the app is terminated  
 
 ---
 
@@ -89,18 +95,30 @@ GeoRemind helps users tie tasks to locations:
 
 ## Setup (Run in 2 Minutes)
 1. Clone the repo:  
-```bash   git clone https://github.com/yourusername/GeoRemind.git ```  
-```cd GeoRemind   ```  
+```bash
+git clone https://github.com/yourusername/GeoRemind.git  
+cd GeoRemind  
+```  
 2. Open in VS Code or Android Studio  
-3. Run:     ```bash   flutter pub get   ```  
-4. Connect a simulator or device and run:     ```bash   flutter run   ```  
+3. Run:
+   ```bash
+   flutter pub get
+   ```  
+4. Connect a simulator or device and run:
+   ```bash  
+   flutter run  
+   ```  
 
---## Credits & Inspiration  
+---
+
+## Credits & Inspiration  
 - HackGT 12 for providing the platform  
 - Google Maps & Firebase docs  
 - Flutter community packages (`geolocator`, `flutter_local_notifications`)  
 
---## License & Contact
+---
+
+## License & Contact
 All rights reserved.  
 **Team:** GeoRemind @ HackGT 12  
 [georemindgt@gmail.com]  

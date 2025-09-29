@@ -124,6 +124,6 @@ All rights reserved.
 **Team:** GeoRemind @ HackGT 12  
 [georemindgt@gmail.com]  
 
-**Authors**:
+**Authors**:  
 [https://linkedin.com/in/aadijuthani]  
 [https://https://www.linkedin.com/in/roque-arduengo-470848304/]  
